@@ -49,6 +49,19 @@ La résultat retourné est fausse donc les functions read() and write() ne fonct
 <img width="685" height="567" alt="image" src="https://github.com/user-attachments/assets/e1abf3d6-42d8-41ee-b159-5bf2681caa83" />
 <img width="772" height="521" alt="image" src="https://github.com/user-attachments/assets/7e44ee32-abd6-4c85-9a4f-fff7134bc4ef" />
 
+ACT3:
+Etape1:
+<img width="887" height="583" alt="image" src="https://github.com/user-attachments/assets/1b00e07a-c0f4-4c84-a8d4-80f9af7f0efd" />
+<img width="875" height="602" alt="image" src="https://github.com/user-attachments/assets/946b3bcf-5cee-41fc-985b-d000037b1c58" />
+
+Etape2:
+<img width="678" height="441" alt="image" src="https://github.com/user-attachments/assets/c12976bb-d5c4-4535-9dd8-39c0a8c0d9d3" />
+<img width="700" height="391" alt="image" src="https://github.com/user-attachments/assets/6af6072e-7a2b-457a-b518-dd1cedad2766" />
+
+
+
+
+
 
  
 
